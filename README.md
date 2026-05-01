@@ -307,15 +307,10 @@ Member Account:
 - Email: member@example.com
 - Password: member123
 - Role: member
+
+
 ```
-
-## License
-
-ISC
-
-## Support
-
-For issues or questions, refer to the code comments and error messages in the console.
+## Deployment
 
 🌐 Live URLs
 Frontend (Netlify):
@@ -326,3 +321,13 @@ Backend (Render):
 Frontend hosted on Netlify
 Backend hosted on Render
 Database hosted on MongoDB Atlas
+
+## License
+
+ISC
+
+## Support
+
+For issues or questions, refer to the code comments and error messages in the console.
+
+
