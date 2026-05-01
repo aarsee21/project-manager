@@ -86,7 +86,7 @@ project-manager/
    node server.js
    ```
 
-   Server runs on: `http://localhost:5000`
+  Server runs on: `https://project-manager-vsvz.onrender.com/`
 
 ### Frontend Setup
 

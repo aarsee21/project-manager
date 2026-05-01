@@ -23,7 +23,7 @@ mongod
 cd backend
 node server.js
 ```
-✅ Server running on `http://localhost:5000`
+✅ Server running on `https://project-manager-vsvz.onrender.com/`
 
 ### Step 4: Start Frontend HTTP Server
 ⚠️ **IMPORTANT**: Frontend MUST be served via HTTP, not file:// protocol!
