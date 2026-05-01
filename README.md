@@ -316,3 +316,13 @@ ISC
 ## Support
 
 For issues or questions, refer to the code comments and error messages in the console.
+
+🌐 Live URLs
+Frontend (Netlify):
+👉 https://cute-wisp-d93261.netlify.app
+Backend (Render):
+👉 https://project-manager-vsvz.onrender.com
+⚙️ Tech Stack (Deployment)
+Frontend hosted on Netlify
+Backend hosted on Render
+Database hosted on MongoDB Atlas
